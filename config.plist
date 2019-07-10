@@ -270,7 +270,6 @@
 		<key>Hide</key>
 		<array>
 			<string>Preboot</string>
-			<string>Recovery</string>
 			<string>\EFI\Boot\BOOTX64.EFI</string>
 		</array>
 		<key>Language</key>
@@ -296,7 +295,7 @@
 		<key>ScreenResolution</key>
 		<string>1920x1080</string>
 		<key>Theme</key>
-		<string>random</string>
+		<string>Hackintosh_ID</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
